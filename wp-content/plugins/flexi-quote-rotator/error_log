@@ -1,0 +1,1 @@
+[09-Jan-2015 22:23:58 America/Chicago] PHP Fatal error:  Call to undefined function get_option() in /home/two020cr/public_html/fosterwhatmatters.com/wp-content/plugins/flexi-quote-rotator/classes/quote-rotator.class.php on line 16

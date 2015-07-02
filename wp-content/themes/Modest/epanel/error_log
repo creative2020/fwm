@@ -1,0 +1,4 @@
+[14-Feb-2015 08:41:35 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/two020cr/public_html/fosterwhatmatters.com/wp-content/themes/Modest/epanel/core_functions.php on line 8
+[14-Feb-2015 08:41:38 America/Chicago] PHP Fatal error:  Call to undefined function add_theme_support() in /home/two020cr/public_html/fosterwhatmatters.com/wp-content/themes/Modest/epanel/custom_functions.php on line 6
+[14-Feb-2015 08:41:43 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/two020cr/public_html/fosterwhatmatters.com/wp-content/themes/Modest/epanel/import_settings.php on line 2
+[14-Feb-2015 08:41:46 America/Chicago] PHP Fatal error:  Call to undefined function get_categories() in /home/two020cr/public_html/fosterwhatmatters.com/wp-content/themes/Modest/epanel/options_modest.php on line 8
